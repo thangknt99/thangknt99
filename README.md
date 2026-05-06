@@ -182,7 +182,7 @@ PostgreSQL
 
 ## My GitHub Snake 🐍
 
-![snake gif](https://raw.githubusercontent.com/thangknt99/thangknt99/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github-contribution-grid-snake.vercel.app/api/fallback?github_user_name=thangknt99)
 
 ---
 
