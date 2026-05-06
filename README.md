@@ -1,18 +1,9 @@
-# <div align="center">⚡ THANGKNT99 ⚡</div>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Backend+Engineer+%7C+System+Architecture;Building+Scalable+%26+High-Performance+Systems;Clean+Code+%E2%80%A2+Microservices+%E2%80%A2+DevOps" />
+# ⚡ THANGKNT99 ⚡
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;System+Architecture+Enthusiast;Scalable+Systems+%7C+Microservices+%7C+DevOps" />
 
-<img src="https://img.shields.io/badge/Backend-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/DevOps-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/API-gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" />
-
-<br/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=thangknt99&style=for-the-badge&color=blueviolet" />
@@ -25,76 +16,66 @@
 
 # 👨‍💻 About Me
 
-```csharp
-public class Developer
-{
-    public string Name => "Nguyen Huu Thang";
-    public string Role => "Backend Engineer";
-    public string Location => "Vietnam 🇻🇳";
+Backend Engineer focused on building scalable, maintainable and high-performance systems.
 
-    public string[] Specialties => new[]
-    {
-        "Scalable System Architecture",
-        "Microservices",
-        "REST API & gRPC",
-        "Database Optimization",
-        "CI/CD & DevOps",
-        "High Performance Backend"
-    };
+### 🚀 Core Expertise
+- Scalable Backend Architecture
+- REST API & gRPC
+- PostgreSQL Optimization
+- Redis Caching
+- CI/CD & DevOps
+- Microservices Architecture
 
-    public string[] CurrentStack => new[]
-    {
-        ".NET",
-        "PostgreSQL",
-        "Redis",
-        "Docker",
-        "GitHub Actions",
-        "Nginx"
-    };
-}
-```
+### ⚡ Current Tech Stack
+- .NET / ASP.NET Core
+- PostgreSQL
+- Redis
+- Docker
+- GitHub Actions
+- Nginx
+
+### 🎯 Interests
+- Distributed Systems
+- High Performance Applications
+- Cloud Native Technologies
+- Clean Architecture
 
 ---
 
-# ⚔️ Tech Arsenal
+# ⚔️ Tech Stack
 
 <div align="center">
 
-## 🚀 Backend
-
+### 🚀 Backend
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,express" />
 
-## 🗄️ Database
-
+### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 
-## ⚙️ DevOps & Infrastructure
-
+### ⚙️ DevOps & Infrastructure
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,nginx,git" />
 
-## 💻 Languages
-
+### 💻 Languages
 <img src="https://skillicons.dev/icons?i=cs,ts,js,java,python" />
 
-## 🎨 Frontend
-
+### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vue" />
 
 </div>
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thangknt99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thangknt99&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangknt99&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangknt99&layout=compact&theme=github_dark&hide_border=true" />
 
 <br/>
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=thangknt99&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=thangknt99&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -108,24 +89,25 @@ public class Developer
 
 ### 🔥 Backend Development
 
-* High-performance APIs
-* Microservices architecture
-* Clean architecture
-* CQRS pattern
-* Authentication & Authorization
-* Realtime systems
+- High-performance APIs
+- Microservices architecture
+- Clean architecture
+- CQRS pattern
+- Authentication & Authorization
+- Realtime systems
 
 </td>
+
 <td width="50%">
 
 ### ⚡ Performance & DevOps
 
-* PostgreSQL optimization
-* Redis caching strategies
-* CI/CD automation
-* Docker deployment
-* Linux server management
-* Monitoring & logging
+- PostgreSQL optimization
+- Redis caching strategies
+- CI/CD automation
+- Docker deployment
+- Linux server management
+- Monitoring & logging
 
 </td>
 </tr>
@@ -140,21 +122,20 @@ public class Developer
 Scalable booking & reservation platform designed for high concurrent traffic.
 
 ### Features
+- Realtime seat reservation
+- QR ticket generation
+- Payment integration
+- Inventory synchronization
+- Distributed caching
+- Admin dashboard
 
-* Realtime seat reservation
-* QR ticket generation
-* Payment integration
-* Inventory synchronization
-* Distributed caching
-* Admin dashboard
-
+### Stack
 ```yaml
-Architecture:
-  - .NET API
-  - PostgreSQL
-  - Redis Cache
-  - Docker Deployment
-  - CI/CD Pipeline
+.NET API
+PostgreSQL
+Redis
+Docker
+CI/CD
 ```
 
 ---
@@ -163,19 +144,18 @@ Architecture:
 
 Realtime communication system optimized for performance.
 
-### Capabilities
+### Features
+- WebSocket communication
+- Horizontal scalability
+- Fast message retrieval
+- Presence tracking
+- Redis Pub/Sub
 
-* WebSocket communication
-* Message queue optimization
-* Horizontal scalability
-* Presence tracking
-* Fast message retrieval
-
+### Stack
 ```yaml
-Stack:
-  - SignalR
-  - Redis Pub/Sub
-  - PostgreSQL
+SignalR
+Redis
+PostgreSQL
 ```
 
 ---
@@ -184,24 +164,23 @@ Stack:
 
 Enterprise inventory management with realtime synchronization.
 
-### Includes
+### Features
+- Warehouse management
+- Stock synchronization
+- Reporting dashboard
+- Mobile responsive UI
+- Transaction tracking
 
-* Warehouse management
-* Stock synchronization
-* Reporting system
-* Mobile responsive UI
-* Transaction tracking
-
+### Stack
 ```yaml
-Stack:
-  - .NET
-  - React
-  - PostgreSQL
+.NET
+React
+PostgreSQL
 ```
 
 ---
 
-# 🧠 Software Engineering Mindset
+# 🧠 Engineering Mindset
 
 <div align="center">
 
@@ -209,13 +188,13 @@ Stack:
 
 </div>
 
-I focus on building systems that are:
+I focus on building software that is:
 
-* ✅ Scalable
-* ✅ Maintainable
-* ✅ Secure
-* ✅ Performant
-* ✅ Production-ready
+- ✅ Scalable
+- ✅ Maintainable
+- ✅ Secure
+- ✅ Performant
+- ✅ Production-ready
 
 ---
 
@@ -226,7 +205,7 @@ flowchart LR
     A[Requirement] --> B[Architecture Design]
     B --> C[Development]
     C --> D[Testing]
-    D --> E[CI/CD Pipeline]
+    D --> E[CI/CD]
     E --> F[Deployment]
     F --> G[Monitoring]
     G --> H[Optimization]
@@ -256,6 +235,6 @@ flowchart LR
 
 <div align="center">
 
-## ⚡ "Build Fast. Scale Smart. Ship Better."
+## ⚡ Build Fast. Scale Smart. Ship Better.
 
 </div>
