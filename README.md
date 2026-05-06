@@ -184,7 +184,7 @@ PostgreSQL
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dabeecao/dabeecao/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/thangknt99/thangknt99/eaa39357edc14b2c9b1d5a05d72065d02574d226/github-contribution-grid-snake.svg" />
 
 </div>
 
