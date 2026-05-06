@@ -6,89 +6,265 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=thangknt99&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-<a href="https://github.com/thangknt99?tab=followers"><img src="https://img.shields.io/github/followers/thangknt99?style=for-the-badge&logo=github" alt="Followers" /></a>
-<a href="https://github.com/thangknt99?tab=repositories"><img src="https://img.shields.io/github/stars/thangknt99?style=for-the-badge" alt="Stars" /></a>
+<img src="https://komarev.com/ghpvc/?username=thangknt99&style=for-the-badge&color=blueviolet" />
+<img src="https://img.shields.io/github/followers/thangknt99?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/thangknt99?style=for-the-badge" />
 
 </div>
 
 ---
 
-# 👨‍💻 Executive Summary
+# 👨‍💻 About Me
 
-I am a **Backend Engineer** passionate about designing and building robust, scalable, and high-performance distributed systems. With a strong foundation in **.NET ecosystem** and modern infrastructure, I focus on delivering clean code and solving complex architectural challenges.
+Backend Engineer focused on building scalable, maintainable and high-performance systems.
 
-### 🎯 Core Competencies
-- **Architecture:** Microservices, Clean Architecture, CQRS, Event-Driven Systems.
-- **Performance:** High-throughput REST/gRPC APIs, PostgreSQL Optimization, Advanced Redis Caching strategies.
-- **Infrastructure:** Dockerization, CI/CD pipelines (GitHub Actions), Nginx, Linux environments.
+### 🚀 Core Expertise
+- Scalable Backend Architecture
+- REST API & gRPC
+- PostgreSQL Optimization
+- Redis Caching
+- CI/CD & DevOps
+- Microservices Architecture
+
+### ⚡ Current Tech Stack
+- .NET / ASP.NET Core
+- PostgreSQL
+- Redis
+- Docker
+- GitHub Actions
+- Nginx
+
+### 🎯 Interests
+- Distributed Systems
+- High Performance Applications
+- Cloud Native Technologies
+- Clean Architecture
 
 ---
 
-# ⚔️ Tech Arsenal
+# ⚔️ Tech Stack
 
 <div align="center">
 
-### 🚀 Backend & Frameworks
+### 🚀 Backend
 <img src="https://skillicons.dev/icons?i=dotnet,nodejs,nestjs,express" />
 
-### 🗄️ Databases & Caching
+### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 
-### ⚙️ DevOps & Cloud Native
+### ⚙️ DevOps & Infrastructure
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,linux,nginx,git" />
 
 ### 💻 Languages
 <img src="https://skillicons.dev/icons?i=cs,ts,js,java,python" />
 
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vue" />
+
 </div>
 
 ---
 
-# 🚀 Highlighted Engineering Projects
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thangknt99&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thangknt99&layout=compact&theme=github_dark&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=thangknt99&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
+
+# 🏗️ Engineering Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔥 Backend Development
+
+- High-performance APIs
+- Microservices architecture
+- Clean architecture
+- CQRS pattern
+- Authentication & Authorization
+- Realtime systems
+
+</td>
+
+<td width="50%">
+
+### ⚡ Performance & DevOps
+
+- PostgreSQL optimization
+- Redis caching strategies
+- CI/CD automation
+- Docker deployment
+- Linux server management
+- Monitoring & logging
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Highlight Projects
 
 ## 🎟️ Enterprise Booking Platform
-*A highly available booking platform designed to handle sudden traffic spikes and concurrent transactions.*
 
-- **Architected** a distributed caching layer using Redis to serve high-frequency read requests and prevent database bottleneck during peak hours.
-- **Implemented** robust concurrency control in PostgreSQL for real-time seat reservation to eliminate double-booking issues.
-- **Automated** deployment workflows using Docker and CI/CD pipelines.
-- **Tech Stack:** `.NET Core` `PostgreSQL` `Redis` `Docker` `GitHub Actions`
+Scalable booking & reservation platform designed for high concurrent traffic.
+
+### Features
+- Realtime seat reservation
+- QR ticket generation
+- Payment integration
+- Inventory synchronization
+- Distributed caching
+- Admin dashboard
+
+### Stack
+```yaml
+.NET API
+PostgreSQL
+Redis
+Docker
+CI/CD
+```
 
 ---
 
 ## 💬 Realtime Chat Infrastructure
-*A low-latency messaging system optimized for speed and reliability.*
 
-- **Designed** a real-time communication hub using SignalR and WebSockets.
-- **Scaled** horizontally across multiple instances utilizing Redis Pub/Sub as a backplane.
-- **Optimized** database queries for fast message retrieval and real-time presence tracking.
-- **Tech Stack:** `.NET SignalR` `Redis` `PostgreSQL`
+Realtime communication system optimized for performance.
+
+### Features
+- WebSocket communication
+- Horizontal scalability
+- Fast message retrieval
+- Presence tracking
+- Redis Pub/Sub
+
+### Stack
+```yaml
+SignalR
+Redis
+PostgreSQL
+```
 
 ---
 
 ## 📦 Smart Inventory Management
-*An enterprise-grade inventory solution with real-time data synchronization.*
 
-- **Developed** a comprehensive REST API serving a mobile-responsive frontend and reporting dashboards.
-- **Engineered** a reliable transaction tracking system ensuring data consistency across multiple warehouse nodes.
-- **Tech Stack:** `.NET` `React` `PostgreSQL`
+Enterprise inventory management with realtime synchronization.
+
+### Features
+- Warehouse management
+- Stock synchronization
+- Reporting dashboard
+- Mobile responsive UI
+- Transaction tracking
+
+### Stack
+```yaml
+.NET
+React
+PostgreSQL
+```
 
 ---
 
-# 🧠 Engineering Mindset & Workflow
+# 🐍 Contribution Snake
 
 <div align="center">
 
-> *"Good architecture is invisible when everything works perfectly. I build software that is Scalable, Maintainable, and Production-Ready."*
+<img src="https://raw.githubusercontent.com/thangknt99/thangknt99/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thangknt99&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=thangknt99&theme=algolia&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
+# 🧠 Engineering Mindset
+
+<div align="center">
+
+> “Good architecture is invisible when everything works perfectly.”
+
+</div>
+
+I focus on building software that is:
+
+- ✅ Scalable
+- ✅ Maintainable
+- ✅ Secure
+- ✅ Performant
+- ✅ Production-ready
+
+---
+
+# 🔄 Development Workflow
+
 ```mermaid
 flowchart LR
-    A[Requirement Analysis] --> B[Architecture Design]
-    B --> C[Implementation]
-    C --> D[Automated Testing]
-    D --> E[CI/CD Pipeline]
+    A[Requirement] --> B[Architecture Design]
+    B --> C[Development]
+    C --> D[Testing]
+    D --> E[CI/CD]
     E --> F[Deployment]
-    F --> G[Monitoring & Optimization]
+    F --> G[Monitoring]
+    G --> H[Optimization]
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/thangknt99">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:your-email@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Build Fast. Scale Smart. Ship Better.
+
+</div>
