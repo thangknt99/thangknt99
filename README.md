@@ -180,15 +180,9 @@ PostgreSQL
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
 ## My GitHub Snake 🐍
 
 ![snake gif](https://raw.githubusercontent.com/thangknt99/thangknt99/output/github-contribution-grid-snake.svg)
-
-</div>
 
 ---
 
