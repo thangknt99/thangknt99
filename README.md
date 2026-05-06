@@ -176,6 +176,18 @@ Enterprise inventory management with realtime synchronization.
 .NET
 React
 PostgreSQL
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thangknt99/thangknt99/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
 ---
 
 # 📈 Activity Graph
