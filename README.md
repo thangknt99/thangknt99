@@ -180,6 +180,36 @@ PostgreSQL
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/thangknt99/thangknt99/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thangknt99&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=thangknt99&theme=algolia&no-frame=true&row=1&column=7" />
+
+</div>
+
+---
+
 # 🧠 Engineering Mindset
 
 <div align="center">
